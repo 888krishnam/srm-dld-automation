@@ -1,3 +1,11 @@
+# ⚠️ ARCHIVED / NO LONGER FUNCTIONAL
+
+> [!CAUTION]
+> **This repository is archived and no longer maintained.**
+> Due to website structure and API changes on the SRMIST DLD Curricula portal (`dld.srmist.edu.in`), this automation tool has stopped working. It is preserved here strictly for historical and reference purposes.
+
+---
+
 # SRMIST DLD Curricula Automation
 
 Downloads worksheets (both **PDF** and **DOCX**), uses Gemini AI to solve questions while comparing and appending any unique questions from DOCX, generates clean, styled answer PDFs locally, and automatically submits **100% MCQ assessment scores** for all **90 SLOs (5 Units × 9 Sessions × 2 SLOs)** on the SRMIST DLD portal.
